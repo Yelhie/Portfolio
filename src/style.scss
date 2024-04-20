@@ -1,0 +1,195 @@
+/*reset*/
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+
+//*************** CSS Global *****************
+
+#line {
+  width: 98%;
+  margin: auto;
+  border-bottom: var(--border);
+}
+
+.App {
+  background-color: var(--background-color);
+}
+
+:root {
+  --texte-color-principale: rgb(255, 255, 255);
+  --texte-color: rgb(192, 192, 192);
+
+  --background-color: #131416;
+  --background-container: rgba(0, 0, 0, 0.4);
+  --border: 1px solid rgba(255, 255, 255, 0.18);
+
+  --background-color-gradient: linear-gradient(
+    0deg,
+    #131416 0%,
+    rgb(10, 10, 10) 100%
+  );
+  --background-card-footer: rgb(10, 10, 10);
+
+  --hover-color: rgb(104, 196, 101);
+  --hover-outline: 1.5px solid rgb(104, 196, 101);
+
+  --background-tag-color: #5555552a;
+  --python-tag-color: #648ce2;
+  --react-tag-color: #59c6d4;
+  --js-tag-color: #e2d16c;
+  --sass-tag-color: #c25bc2;
+  --redux-tag-color: #7f5bb8;
+  --html-tag-color: #c46800;
+  --nodejs-tag-color: #63b659;
+  --mongodb-tag-color: #3a9c73;
+  --default-tag-color: #afafaf;
+}
+
+[data-theme="light"] {
+  --texte-color-principale: rgb(0, 0, 0);
+  --texte-color: rgb(26, 26, 26);
+
+  --background-color: #ffffff;
+  --background-container: rgba(226, 226, 226, 0.4);
+  --border: 1px solid rgba(3, 3, 3, 0.39);
+
+  --background-color-gradient: linear-gradient(
+    0deg,
+    #ffffff 0%,
+    rgb(224, 224, 224) 100%
+  );
+  --background-card-footer: rgb(231, 231, 231);
+
+  --hover-color: rgb(56, 150, 52);
+  --hover-outline: 1.5px solid rgb(56, 150, 52);
+
+  --background-tag-color: #3a3a3a2a;
+  --python-tag-color: #4f75c9;
+  --react-tag-color: #1b7b88;
+  --js-tag-color: #aa9b47;
+  --sass-tag-color: #c25bc2;
+  --redux-tag-color: #7f5bb8;
+  --html-tag-color: #c46800;
+  --nodejs-tag-color: #1a7e0c;
+  --mongodb-tag-color: #176645;
+  --default-tag-color: #535353;
+}

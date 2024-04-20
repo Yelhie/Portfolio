@@ -1,0 +1,85 @@
+#section-projetcontainer {
+  display: flex;
+  justify-content: center;
+  color: var(--texte-color);
+  padding-top: 18px;
+
+  .projetcontainer-maincontainer {
+    background: var(--background-container);
+    backdrop-filter: blur(4.5px);
+    border-radius: 6px;
+    border: var(--border);
+    width: 950px;
+
+    @media (max-width: 900px) and (min-width: 629px) {
+      width: 640px;
+    }
+
+    @media (max-width: 630px) {
+      width: 320px;
+    }
+
+    h1 {
+      font-size: 21px;
+      padding: 10px;
+    }
+
+    .projetcontainer-cards {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 10px;
+      padding: 10px;
+      justify-content: center;
+
+      @media (max-width: 900px) {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      @media (max-width: 630px) {
+        grid-template-columns: repeat(1, 1fr);
+      }
+    }
+  }
+
+  //****************** Filter ******************//
+
+  .projetcontainer-filter {
+    color: var(--texte-color-principale);
+    margin: 10px;
+    text-align: center;
+
+    select {
+      padding: 2px;
+      background: var(--background-container);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      color: var(--texte-color-principale);
+    }
+  }
+
+  //****************** Pagination Button ******************//
+
+  .projetcontainer-pagination {
+    text-align: center;
+    padding: 5px 0 15px 0;
+
+    button {
+      margin: 5px;
+      color: var(--texte-color);
+      background-color: var(--background-color);
+      border-radius: 5px;
+      border: var(--border);
+      cursor: pointer;
+    }
+
+    button:hover {
+      color: var(--hover-color);
+      outline: var(--hover-outline);
+    }
+
+    .active {
+      color: var(--hover-color);
+      outline: var(--hover-outline);
+    }
+  }
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "0001",
+    "icone": ["react.webp"],
+    "nomdulangage": "React",
+    "level": "Niveau intermédiaire"
+  },
+  {
+    "id": "0002",
+    "icone": ["js.webp"],
+    "nomdulangage": "JavaScript",
+    "level": "Niveau intermédiaire"
+  },
+  {
+    "id": "0003",
+    "icone": ["python.webp"],
+    "nomdulangage": "Python",
+    "level": "Niveau intermédiaire"
+  },
+  {
+    "id": "0004",
+    "icone": ["redux.webp"],
+    "nomdulangage": "Redux",
+    "level": "Niveau débutant"
+  },
+  {
+    "id": "0005",
+    "icone": ["sass.webp"],
+    "nomdulangage": "Sass",
+    "level": "Niveau intermédiaire"
+  },
+  {
+    "id": "0006",
+    "icone": ["nodejs.webp"],
+    "nomdulangage": "Node.js",
+    "level": "Niveau débutant"
+  },
+  {
+    "id": "0007",
+    "icone": ["expressjs.webp"],
+    "nomdulangage": "Express.js",
+    "level": "Niveau débutant"
+  },
+  {
+    "id": "0008",
+    "icone": ["nextjs.webp"],
+    "nomdulangage": "Next.js",
+    "level": "Niveau débutant"
+  },
+  {
+    "id": "0009",
+    "icone": ["typescript.webp"],
+    "nomdulangage": "TypeScript",
+    "level": "Niveau débutant"
+  },
+  {
+    "id": "0010",
+    "icone": ["sql.webp"],
+    "nomdulangage": "SQL",
+    "level": "Niveau débutant"
+  },
+  {
+    "id": "0011",
+    "icone": ["mongodb.webp"],
+    "nomdulangage": "MongoDB",
+    "level": "Niveau débutant"
+  }
+]

@@ -1,0 +1,466 @@
+[
+  {
+    "id": "0001",
+    "title": "MangaSōkō",
+    "date": "2024",
+    "cover": "mangasoko.webp",
+    "description": "Réalisation d’un site Fullstack de référencement de mangas avec MERN. Site responsive et animé, disposant de filtres et d’une fonction recherche pour faciliter la navigation des utilisateurs.",
+    "langage": [
+      {
+        "libelle": "React",
+        "class": "react-tag"
+      }
+    ],
+    "librairie": [
+      {
+        "libelle": "Sass",
+        "class": "sass-tag"
+      },
+      {
+        "libelle": "React Router",
+        "class": "default-tag"
+      },
+      {
+        "libelle": "Node.js",
+        "class": "nodejs-tag"
+      },
+      {
+        "libelle": "Express.js",
+        "class": "default-tag"
+      },
+      {
+        "libelle": "MongoDB",
+        "class": "mongodb-tag"
+      }
+    ],
+    "competences": [
+      "Création d'un serveur avec Node.js et Express, comprenant une documentation Swagger",
+      "Création d'une base de données MongoDB",
+      "Mise en place de filtres et d'une barre de recherche",
+      "Gestion des routes avec React Router"
+    ],
+    "link": [
+      {
+        "github": "https://github.com/Yelhie/MangaSoko",
+        "site": ""
+      }
+    ]
+  },
+  {
+    "id": "0002",
+    "title": "Locura Botánica",
+    "date": "2024",
+    "cover": "locurabotanica.webp",
+    "description": "Réalisation d’un site E-Commerce Fullstack avec MERN et Redux. Compte utilisateur, panier, ajout et suppression des articles. Site responsive et dynamique avec barre de recherche.",
+    "langage": [
+      {
+        "libelle": "React",
+        "class": "react-tag"
+      }
+    ],
+    "librairie": [
+      {
+        "libelle": "Redux",
+        "class": "redux-tag"
+      },
+      {
+        "libelle": "Sass",
+        "class": "sass-tag"
+      },
+      {
+        "libelle": "React Router",
+        "class": "default-tag"
+      },
+      {
+        "libelle": "Node.js",
+        "class": "nodejs-tag"
+      },
+      {
+        "libelle": "Express.js",
+        "class": "default-tag"
+      },
+      {
+        "libelle": "MongoDB",
+        "class": "mongodb-tag"
+      }
+    ],
+    "competences": [
+      "Création du backend avec Node.js, Express et MongoDB",
+      "Mise en place d'un système de login avec comptes utilisateurs",
+      "Développement d'un système de panier avec ajout et suppression des articles",
+      "Gestion de l'état global avec Redux permettant un affichage dynamique"
+    ],
+    "link": [
+      {
+        "github": "https://github.com/Yelhie/Locura_Botanica",
+        "site": ""
+      }
+    ]
+  },
+  {
+    "id": "0003",
+    "title": "Kasa",
+    "date": "2023",
+    "cover": "kasa.webp",
+    "description": "Conception d'un site de location entre particuliers avec React. Composants réutilisables, site responsive, gestion des données et des états de manière efficace.",
+    "langage": [
+      {
+        "libelle": "React",
+        "class": "react-tag"
+      }
+    ],
+    "librairie": [
+      {
+        "libelle": "React Router",
+        "class": "default-tag"
+      },
+      {
+        "libelle": "Sass",
+        "class": "sass-tag"
+      }
+    ],
+    "competences": [
+      "Création de composants réutilisables",
+      "Gestion des données",
+      "Partage des données entre composants via les props",
+      "Gestion des routes avec React Router",
+      "Mise en place d'une page d'erreur avec redirection",
+      "Création de composants collapse"
+    ],
+    "link": [
+      {
+        "github": "https://github.com/Yelhie/Kasa",
+        "site": ""
+      }
+    ]
+  },
+  {
+    "id": "0004",
+    "title": "ArgentBank",
+    "date": "2024",
+    "cover": "argentbank.webp",
+    "description": "Migration un site bancaire existant en HTML vers React, tout en intégrant un système de login/logout. Le projet implique également l'utilisation de Redux pour une gestion d'état robuste et sécurisée.",
+    "langage": [
+      {
+        "libelle": "React",
+        "class": "react-tag"
+      }
+    ],
+    "librairie": [
+      {
+        "libelle": "Redux",
+        "class": "redux-tag"
+      },
+      {
+        "libelle": "React Router",
+        "class": "default-tag"
+      }
+    ],
+    "competences": [
+      "Gestion de l'état global avec Redux",
+      "Création d'un système de login/logout",
+      "Récupération de données à partir d'une API",
+      "Modification de données"
+    ],
+    "link": [
+      {
+        "github": "https://github.com/Yelhie/ArgentBank",
+        "site": ""
+      }
+    ]
+  },
+  {
+    "id": "0005",
+    "title": "Porfolio",
+    "date": "2024",
+    "cover": "porfolio.webp",
+    "description": "Création d'un portfolio de Développeuse web avec React. Site responsive avec cards de présentation des projets, pagination et filtres.",
+    "langage": [
+      {
+        "libelle": "React",
+        "class": "react-tag"
+      }
+    ],
+    "librairie": [
+      {
+        "libelle": "Sass",
+        "class": "sass-tag"
+      }
+    ],
+    "competences": [
+      "Création d'un système de filtres",
+      "Création d'un système de pagination",
+      "Mise en place d'un Dark mode",
+      "Utilisation de composants réutilisables",
+      "Optimisation pour le SEO",
+      "Conception d'un site responsive",
+      "Mise en place d'un système de tag avec des classes CSS adaptatives"
+    ],
+    "link": [
+      {
+        "github": "",
+        "site": ""
+      }
+    ]
+  },
+  {
+    "id": "0006",
+    "title": "TokiPro",
+    "cover": "TokiPro.webp",
+    "date": "2023",
+    "description": "Conception d'une application Python dédiée à la gestion du temps de travail, création de timer, liste de tâches et génération de statistiques détaillées.",
+    "langage": [
+      {
+        "libelle": "Python",
+        "class": "python-tag"
+      }
+    ],
+    "librairie": [
+      {
+        "libelle": "Ttkbootstrap",
+        "class": "default-tag"
+      },
+      {
+        "libelle": "API Notion",
+        "class": "default-tag"
+      }
+    ],
+    "competences": [
+      "Création d'un systéme de timer",
+      "Récupération d'une liste de tâches via API Notion",
+      "Création d'un système de filtres pour les différentes catégories de travail",
+      "Posibilité d'ajouter des catégories de travail",
+      "Gestion du temps aloué aux tâches",
+      "Création d'un tableau de bord affichant les statistiques du temps de travail par catégories, jours, semaines, mois, années"
+    ],
+    "link": [
+      {
+        "github": "",
+        "site": ""
+      }
+    ]
+  },
+  {
+    "id": "0007",
+    "title": "724 Events",
+    "date": "2023",
+    "cover": "724events.webp",
+    "description": "Projet visant à effectuer un débogage approfondi d'un site événementiel, à réaliser des tests unitaires et fonctionnels rigoureux, ainsi qu'à résoudre les avertissements de la console.",
+    "langage": [
+      {
+        "libelle": "React",
+        "class": "react-tag"
+      }
+    ],
+    "librairie": [
+      {
+        "libelle": "Sass",
+        "class": "sass-tag"
+      }
+    ],
+    "competences": [
+      "Utilisation de Chrome DevTools",
+      "Rédaction d'un cahier de recette de tests complets",
+      "Analyse approfondie des problèmes de syntaxe",
+      "Identification et résolution des avertissements et des erreurs de console"
+    ],
+    "link": [
+      {
+        "github": "https://github.com/Yelhie/724events",
+        "site": ""
+      }
+    ]
+  },
+  {
+    "id": "0008",
+    "title": "OhMyFood",
+    "date": "2023",
+    "cover": "ohmyfood.webp",
+    "description": "Réalisation d'un site dynamique en utilisant la méthodologie mobile-first. Il implique l'utilisation de Sass pour la gestion des styles et la mise en place d'animations CSS pour rendre le contenu du site plus attractif.",
+    "langage": [],
+    "librairie": [
+      {
+        "libelle": "HTML",
+        "class": "html-tag"
+      },
+      {
+        "libelle": "Sass",
+        "class": "sass-tag"
+      }
+    ],
+    "competences": [
+      "Création d'un site en mobile-first",
+      "Mise en place d'animations CSS."
+    ],
+    "link": [
+      {
+        "github": "https://github.com/Yelhie/OhMyFood",
+        "site": ""
+      }
+    ]
+  },
+  {
+    "id": "0009",
+    "title": "Nina Carducci",
+    "date": "2023",
+    "cover": "ninacarducci.webp",
+    "description": "Projet visant à réaliser un audit et des déploiements pour identifier et corriger les points d'amélioration afin d'optimiser le chargement et le référencement d'un site de photographe.",
+    "langage": [
+      {
+        "libelle": "JavaScript",
+        "class": "js-tag"
+      }
+    ],
+    "librairie": [
+      {
+        "libelle": "HTML",
+        "class": "html-tag"
+      },
+      {
+        "libelle": "Css",
+        "class": "default-tag"
+      }
+    ],
+    "competences": [
+      "Audit général du site pour analyser les problèmes de performance et de SEO",
+      "Mise en place des bonnes pratiques pour garantir une optimisation efficace du site",
+      "Respect des recommandations en matière de SEO",
+      "Vérification de la structure du code",
+      "Optimisation des images au format Webp"
+    ],
+    "link": [
+      {
+        "github": "https://github.com/Yelhie/Nina_Carducci",
+        "site": ""
+      }
+    ]
+  },
+  {
+    "id": "0010",
+    "title": "Sophie Bluel",
+    "date": "2023",
+    "cover": "sophiebluel.webp",
+    "description": "Projet visant à dynamiser un portfolio d'architecte en utilisant HTML et JavaScript. Création de modales, de filtres, de formulaires et gestion des événements utilisateur avec manipulation du DOM.",
+    "langage": [
+      {
+        "libelle": "JavaScript",
+        "class": "js-tag"
+      }
+    ],
+    "librairie": [
+      {
+        "libelle": "HTML",
+        "class": "html-tag"
+      },
+      {
+        "libelle": "Css",
+        "class": "default-tag"
+      }
+    ],
+    "competences": [
+      "Création d'un système de filtres",
+      "Gestion des événements utilisateur et manipulation du DOM",
+      "Récupération de données d'une API",
+      "Création d'une modal pour afficher les travaux",
+      "Création d'une modal pour ajouter ou supprimer des travaux",
+      "Gestion des données via formulaire"
+    ],
+    "link": [
+      {
+        "github": "https://github.com/Yelhie/Sophie_Bluel",
+        "site": ""
+      }
+    ]
+  },
+  {
+    "id": "0011",
+    "title": "Print it",
+    "date": "2023",
+    "cover": "prinit.webp",
+    "description": "Projet visant à dynamiser un site statique en utilisant JavaScript pour intégrer un carrousel.",
+    "langage": [
+      {
+        "libelle": "JavaScript",
+        "class": "js-tag"
+      }
+    ],
+    "librairie": [
+      {
+        "libelle": "HTML",
+        "class": "html-tag"
+      },
+      {
+        "libelle": "Css",
+        "class": "default-tag"
+      }
+    ],
+    "competences": [
+      "Création d'un carrousel avec JavaScript",
+      "Utilisation de boucles et de conditions en JavaScript"
+    ],
+    "link": [
+      {
+        "github": "https://github.com/Yelhie/Print_it",
+        "site": "https://yelhie.github.io/Print_it/"
+      }
+    ]
+  },
+  {
+    "id": "0012",
+    "title": "Booki",
+    "date": "2023",
+    "cover": "booki.webp",
+    "description": "Projet de création d'une page d'accueil responsive en HTML et CSS pour une agence de voyage en suivant et respectant le design de la maquette Figma fournie.",
+    "langage": [],
+    "librairie": [
+      {
+        "libelle": "HTML",
+        "class": "html-tag"
+      },
+      {
+        "libelle": "Css",
+        "class": "default-tag"
+      }
+    ],
+    "competences": [
+      "Suivi et respect de la maquette Figma",
+      "Création d'une page d'accueil en HTML",
+      "Mise en place d'un CSS responsive pour les versions Desktop, tablette et mobile"
+    ],
+    "link": [
+      {
+        "github": "https://github.com/Yelhie/booki",
+        "site": "https://yelhie.github.io/Booki/"
+      }
+    ]
+  },
+  {
+    "id": "0013",
+    "title": "Riding Cities",
+    "date": "2023",
+    "cover": "ridingcities.webp",
+    "description": "Amélioration d'un site onepage d'une association sportive par l'ajout de nouveaux éléments HTML et CSS.",
+    "langage": [],
+    "librairie": [
+      {
+        "libelle": "HTML",
+        "class": "html-tag"
+      },
+      {
+        "libelle": "Css",
+        "class": "default-tag"
+      }
+    ],
+    "competences": [
+      "Suivi et respect de la maquette Figma",
+      "Intégration de nouveaux éléments HTML (sections, boutons, titres, etc.)",
+      "Mise en place du CSS pour les nouveaux éléments HTML"
+    ],
+    "link": [
+      {
+        "github": "https://github.com/Yelhie/Riding_Cities",
+        "site": "https://yelhie.github.io/Riding_Cities/"
+      }
+    ]
+  }
+]
