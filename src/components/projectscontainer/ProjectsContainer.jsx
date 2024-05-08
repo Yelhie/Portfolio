@@ -50,7 +50,7 @@ export const ProjectsContainer = () => {
   return (
     <section id="section-projetcontainer">
       <div className="projetcontainer-maincontainer">
-        <h1>Projets :</h1>
+        <h2>Projets :</h2>
         <p id="line"></p>
         <div className="projetcontainer-filter">
           <label>Filtrer les projets : </label>

@@ -5,11 +5,11 @@ export const About = () => {
   return (
     <section id="section-about">
       <div className="about-container">
-        <h1>A propos de moi :</h1>
+        <h2>A propos de moi :</h2>
         <p id="line"></p>
         <div className="about-container-top">
           <div className="about-container-infos">
-            <p className="about-text-name">Maëlle Girard</p>
+            <h1 className="about-text-name">Maëlle Girard</h1>
             <p className="about-text-titre">Développeuse Web</p>
             <p className="about-text-satut">
               ● Available for new opportunities

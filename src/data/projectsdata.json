@@ -1,9 +1,9 @@
 [
   {
     "id": "0001",
-    "title": "MangaSōkō",
+    "title": "MangaNokura",
     "date": "2024",
-    "cover": "mangasoko.webp",
+    "cover": "manganokura.webp",
     "description": "Réalisation d’un site Fullstack de référencement de mangas avec MERN. Site responsive et animé, disposant de filtres et d’une fonction recherche pour faciliter la navigation des utilisateurs.",
     "langage": [
       {
@@ -41,7 +41,7 @@
     ],
     "link": [
       {
-        "github": "https://github.com/Yelhie/MangaSoko",
+        "github": "https://github.com/Yelhie/MangaNokura",
         "site": ""
       }
     ]
@@ -206,7 +206,7 @@
   {
     "id": "0006",
     "title": "TokiPro",
-    "cover": "TokiPro.webp",
+    "cover": "tokipro.webp",
     "date": "2023",
     "description": "Conception d'une application Python dédiée à la gestion du temps de travail, création de timer, liste de tâches et génération de statistiques détaillées.",
     "langage": [
@@ -229,8 +229,7 @@
       "Création d'un systéme de timer",
       "Récupération d'une liste de tâches via API Notion",
       "Création d'un système de filtres pour les différentes catégories de travail",
-      "Posibilité d'ajouter des catégories de travail",
-      "Gestion du temps aloué aux tâches",
+      "Posibilité d'ajouter de catégories",
       "Création d'un tableau de bord affichant les statistiques du temps de travail par catégories, jours, semaines, mois, années"
     ],
     "link": [

@@ -8,7 +8,7 @@ export const ProjectCard = ({ project }) => {
         <p className="projectcard-date">{project.date}</p>
         <img
           className="projectcard-img"
-          src={`https://yelhie.github.io/test/Portfolio/photos/${project.cover}`}
+          src={`https://yelhie.github.io/Portfolio/assets/photos/${project.cover}`}
           alt={project.title}
         />
       </div>
