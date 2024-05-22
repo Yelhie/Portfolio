@@ -39,8 +39,8 @@ npm run dev
 
 **Home page - Dark mode**
 
-![Portefolio home page](https://github.com/Yelhie/xi5ftcai605u/blob/master/img/portfolio_24172838.jpg)
+![Portefolio home page](https://github.com/Yelhie/Portfolio/blob/main/screenshot/portfolio_24172838.jpg)
 
 **Home page - light mode**
 
-![Portefolio home page](https://github.com/Yelhie/xi5ftcai605u/blob/master/img/portfolio_24172744.jpg)
+![Portefolio home page](https://github.com/Yelhie/Portfolio/blob/main/screenshot/portfolio_24172744.jpg)
